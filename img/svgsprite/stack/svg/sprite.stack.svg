@@ -13,6 +13,8 @@
     <path d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6Zm-2 0-8 5-8-5h16Zm0 12H4V8l8 5 8-5v10Z" fill="#FF8017"/>
 </svg><svg viewBox="0 0 24 24" fill="none" id="mail-white" xmlns="http://www.w3.org/2000/svg">
     <path d="m3 8 5.45 3.633c1.283.856 1.925 1.283 2.618 1.45a4.001 4.001 0 0 0 1.864 0c.694-.167 1.335-.594 2.618-1.45L21 8M6.2 19h11.6c1.12 0 1.68 0 2.108-.218a2 2 0 0 0 .874-.874C21 17.48 21 16.92 21 15.8V8.2c0-1.12 0-1.68-.218-2.108a2 2 0 0 0-.874-.874C19.48 5 18.92 5 17.8 5H6.2c-1.12 0-1.68 0-2.108.218a2 2 0 0 0-.874.874C3 6.52 3 7.08 3 8.2v7.6c0 1.12 0 1.68.218 2.108a2 2 0 0 0 .874.874C4.52 19 5.08 19 6.2 19Z" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg><svg fill="none" viewBox="0 0 30 30" id="minus" xmlns="http://www.w3.org/2000/svg">
+    <path d="M6.25 15h17.5" stroke="#FF8017" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg><svg fill="none" viewBox="0 0 11 21" id="owl-arrow-l" xmlns="http://www.w3.org/2000/svg">
     <path d="M10.727 1.687a1.002 1.002 0 0 0-.37-1.622 1 1 0 0 0-1.084.248l-8.5 9a1 1 0 0 0 0 1.374l8.5 9.001a1 1 0 1 0 1.454-1.373L2.875 10l7.852-8.313Z" fill="#747474"/>
 </svg><svg fill="none" viewBox="0 0 11 21" id="owl-arrow-r" xmlns="http://www.w3.org/2000/svg">
@@ -21,28 +23,28 @@
     <path d="M22.5 16.247h-6.25v6.25a1.25 1.25 0 0 1-2.5 0v-6.25H7.5a1.25 1.25 0 0 1 0-2.5h6.25v-6.25a1.25 1.25 0 0 1 2.5 0v6.25h6.25a1.25 1.25 0 0 1 0 2.5Z" fill="#363636"/>
 </svg><svg fill="none" viewBox="0 0 25 25" id="quest1" xmlns="http://www.w3.org/2000/svg">
     <circle cx="13" cy="13" r="10" fill="#00386B"/>
-    <g clip-path="url(#ka)">
+    <g clip-path="url(#la)">
         <path d="M16.771 8.536c-2.083-2.049-5.46-2.049-7.542 0a5.187 5.187 0 0 0 0 7.42l3.77 3.71 3.772-3.71a5.186 5.186 0 0 0 0-7.42ZM13 13.999a1.668 1.668 0 0 1 0-3.333 1.668 1.668 0 0 1 0 3.333Z" fill="#fff"/>
     </g>
     <defs>
-        <clipPath id="ka">
+        <clipPath id="la">
             <path fill="#fff" transform="translate(5 5)" d="M0 0h16v16H0z"/>
         </clipPath>
     </defs>
 </svg><svg fill="none" viewBox="0 0 25 25" id="quest2" xmlns="http://www.w3.org/2000/svg">
     <circle cx="13" cy="13" r="10" fill="#00386B"/>
-    <g clip-path="url(#la)">
-        <g clip-path="url(#lb)" stroke="#fff" stroke-width="2">
+    <g clip-path="url(#ma)">
+        <g clip-path="url(#mb)" stroke="#fff" stroke-width="2">
             <path d="M19 13a6 6 0 1 0-4.447 5.795" stroke-linecap="round"/>
             <path d="M13 15.667a2.667 2.667 0 1 0 0-5.334 2.667 2.667 0 0 0 0 5.334Z"/>
             <path d="M15.666 11v3A1.666 1.666 0 1 0 19 14v-1" stroke-linecap="round"/>
         </g>
     </g>
     <defs>
-        <clipPath id="la">
+        <clipPath id="ma">
             <path fill="#fff" transform="translate(5 5)" d="M0 0h16v16H0z"/>
         </clipPath>
-        <clipPath id="lb">
+        <clipPath id="mb">
             <path fill="#fff" transform="translate(5 5)" d="M0 0h16v16H0z"/>
         </clipPath>
     </defs>
@@ -53,20 +55,20 @@
 </svg><svg fill="none" viewBox="0 0 25 25" id="social-fb" xmlns="http://www.w3.org/2000/svg">
     <path d="M22.917 12.5c0-5.75-4.667-10.417-10.417-10.417S2.083 6.75 2.083 12.5c0 5.042 3.584 9.24 8.334 10.208v-7.083H8.333V12.5h2.084V9.896a3.65 3.65 0 0 1 3.646-3.646h2.604v3.125h-2.084c-.573 0-1.041.469-1.041 1.042V12.5h3.125v3.125h-3.125v7.24c5.26-.521 9.375-4.959 9.375-10.365Z" fill="#00386B"/>
 </svg><svg fill="none" viewBox="0 0 25 25" id="social-inst" xmlns="http://www.w3.org/2000/svg">
-    <g clip-path="url(#pa)">
+    <g clip-path="url(#qa)">
         <path d="M16.25 12.5a3.75 3.75 0 0 1-7.5 0c0-.214.021-.422.061-.625H7.5v4.996c0 .348.281.629.629.629h8.743a.629.629 0 0 0 .628-.629v-4.996h-1.311c.04.203.06.41.061.625ZM12.5 15a2.5 2.5 0 1 0-.001-5 2.5 2.5 0 0 0 .001 5Zm3-5.125h1.499a.375.375 0 0 0 .376-.375V8.001a.375.375 0 0 0-.376-.376H15.5a.375.375 0 0 0-.376.376V9.5c.001.206.17.375.376.375ZM12.5.5a12 12 0 1 0 0 24 12 12 0 0 0 0-24Zm6.25 16.861c0 .764-.625 1.389-1.389 1.389H7.64a1.393 1.393 0 0 1-1.389-1.389V7.64c0-.764.625-1.389 1.389-1.389h9.722c.764 0 1.389.625 1.389 1.389v9.722Z" fill="#00386B"/>
     </g>
     <defs>
-        <clipPath id="pa">
+        <clipPath id="qa">
             <path fill="#fff" d="M0 0h25v25H0z"/>
         </clipPath>
     </defs>
 </svg><svg fill="none" viewBox="0 0 25 25" id="social-ytube" xmlns="http://www.w3.org/2000/svg">
-    <g clip-path="url(#qa)">
+    <g clip-path="url(#ra)">
         <path d="m14.504 12.291-2.808-1.31c-.245-.114-.446.014-.446.285v2.468c0 .271.201.399.446.285l2.806-1.31c.247-.115.247-.303.002-.418ZM12.5.5C5.872.5.5 5.872.5 12.5s5.372 12 12 12 12-5.372 12-12-5.372-12-12-12Zm0 16.875c-6.143 0-6.25-.554-6.25-4.875s.107-4.875 6.25-4.875c6.142 0 6.25.554 6.25 4.875s-.108 4.875-6.25 4.875Z" fill="#00386B"/>
     </g>
     <defs>
-        <clipPath id="qa">
+        <clipPath id="ra">
             <path fill="#fff" d="M0 0h25v25H0z"/>
         </clipPath>
     </defs>
